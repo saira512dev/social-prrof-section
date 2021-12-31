@@ -172,11 +172,14 @@ section{
 @media (min-width: 900px){
     .container{
         background:url(/images/bg-pattern-top-desktop.svg) top left  no-repeat, url(/images/bg-pattern-bottom-desktop.svg)  bottom right no-repeat;
-        background-size: 50% 66%,68% 77%;
+       // background-size: 65% 66%,75% 70%;
+       background-size: 85vh 45vw,120vh 40vw;
     }
     
     main{
         width:800px;
+        gap:10px;
+        margin:50px 50px;
     }
 
     .top{
@@ -262,7 +265,7 @@ section{
 
     .bottom{
         flex-direction: row;
-        gap:20px;
+        gap:30px;
         align-items: flex-start;
 
         .card{
