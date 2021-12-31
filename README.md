@@ -43,9 +43,9 @@ A
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - (https://www.officialsaira.me)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/saira512dev)
+- Twitter - (https://www.twitter.com/Devnewbie1)
 
 
 
